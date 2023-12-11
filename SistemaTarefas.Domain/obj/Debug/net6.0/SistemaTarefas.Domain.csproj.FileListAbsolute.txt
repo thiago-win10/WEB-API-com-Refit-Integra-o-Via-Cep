@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.sourcelink.json
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\bin\Debug\net6.0\SistemaTarefas.Domain.deps.json
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\bin\Debug\net6.0\SistemaTarefas.Domain.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\bin\Debug\net6.0\SistemaTarefas.Domain.pdb
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\refint\SistemaTarefas.Domain.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\SistemaTarefas.Domain.pdb
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Domain\obj\Debug\net6.0\ref\SistemaTarefas.Domain.dll

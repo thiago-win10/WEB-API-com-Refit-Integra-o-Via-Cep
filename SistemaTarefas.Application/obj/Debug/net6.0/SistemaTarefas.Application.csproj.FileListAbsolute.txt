@@ -1,0 +1,13 @@
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\bin\Debug\net6.0\SistemaTarefas.Application.deps.json
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\bin\Debug\net6.0\SistemaTarefas.Application.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\bin\Debug\net6.0\SistemaTarefas.Application.pdb
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.sourcelink.json
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\refint\SistemaTarefas.Application.dll
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\SistemaTarefas.Application.pdb
+C:\Users\Thiago\Desktop\c#\SistemaTarefas\SistemaTarefas.Application\obj\Debug\net6.0\ref\SistemaTarefas.Application.dll

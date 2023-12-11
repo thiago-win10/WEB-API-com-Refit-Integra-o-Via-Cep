@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c64q+0B8TI8vtkhPDrPRffnpRhD1hCB0Y9GaddNz6Ms=",
+  "Source": "SistemaTarefas.Api",
+  "BasePath": "_content/SistemaTarefas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
